@@ -12,7 +12,7 @@ I'm passionate about creating seamless web experiences and solving real-world pr
 
 ## 🌟 Skills
 
-- **Frontend:** React, Redux, Bootstrap, Tailwind CSS
+- **Frontend:** React, Redux, Angular, TypeScript, Bootstrap, Tailwind CSS
 - **Backend:** Node, Express, MongoDB
 - **Version Control:** Git
 
