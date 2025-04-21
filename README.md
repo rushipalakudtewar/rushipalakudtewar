@@ -2,9 +2,9 @@
 
 ## **OVERVIEW**
 
-👀 I have completed my BTech in Computer Science and Engineering with an impressive 8.61 CGPA. I am excited to express my strong interest in the MERN Stack Developer position.
+👀 I have completed my BTech in Computer Science and Engineering with an impressive 8.61 CGPA. I am excited to express my strong interest in the MEAN/MERN Stack Developer position.
 
-My background aligns well with the required key skills, including **React**, **Redux**, **Node**, **Express**, **MongoDB**, **Bootstrap**, **Tailwind CSS**, and **Git**.
+My background aligns well with the required key skills, including **React**,**Angular**, **Redux**, **Node**, **Express**, **MongoDB**, **Bootstrap**, **Tailwind CSS**, and **Git**.
 
 ## 🚀 About Me
 
